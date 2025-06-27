@@ -1,5 +1,8 @@
 ![Artboard 1](https://github.com/user-attachments/assets/4e59e66f-c6a9-407a-a082-03cc866b4ae9)
 
+## NOTE
+This project already abandoned. For windows, its better use with Cygwin
+
 # NanoDir
 
 **NanoDir** is a terminal-based file manager designed for efficiency and simplicity. It offers cross-platform compatibility and a user-friendly interface.
